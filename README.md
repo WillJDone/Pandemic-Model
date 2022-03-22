@@ -1,1 +1,1 @@
-# Pandemic-Model
+# Epidemic-Model
